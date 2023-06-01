@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 venv_ml/
+machine_learning/linear_regression/auto-mpg.data
